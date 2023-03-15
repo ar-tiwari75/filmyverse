@@ -79,6 +79,7 @@ const Login = () => {
             Password
           </label>
           <input
+            type={"password"}
             id="message"
             name="message"
             value={form.password}
